@@ -15,3 +15,7 @@ void main() {
 		}
 	}
 }
+
+// Key difference in break vs continue is:
+	// Break terminates the specified loop in entirely
+	// Continue skips the current iteration in the loop once a condition is met
