@@ -13,6 +13,7 @@ void main() {
 	String s3 = 'It\'s easy';
 	String s4 = "It's easy";
 
+	//The Dart compiler treats adjacent string literals as if they were a single string literal.
 	String s5 = 'This is going to be a very long String. '
 			'This is just a sample String demo in Dart Programming Language';
 
