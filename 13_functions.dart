@@ -6,6 +6,10 @@
 // 3. Return value from a Function
 // 4. Test that by default a Function returns null
 
+//SOME NOTES
+// The keyword before the name of the name of functions defines return type
+// No keyword takes by default a void return (no return)
+
 void main() {
 
 	findPerimeter(4, 2);
