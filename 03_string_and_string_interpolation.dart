@@ -4,8 +4,8 @@ void main() {
 	// Literals
 	var isCool = true;
 	int x = 2;
-	"John";
-	4.5;
+	String name = "John"; //They were previously not assigned
+	double y = 4.5; //They were previously not assigned
 
 	// Various ways to define String Literals in Dart
 	String s1 = 'Single';
