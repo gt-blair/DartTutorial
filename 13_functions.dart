@@ -25,3 +25,7 @@ int getArea(int length, int breadth) {
 	int area = length * breadth;
 	return area;
 }
+
+main() {
+	print("Coding is awesome")
+}
